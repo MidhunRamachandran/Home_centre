@@ -1,0 +1,1 @@
+uid,gtin_input,product_page_url_input,product_id,product_name,taxonomy,MRP,selling_price,images,product_url,rank,current_page,reuslt_count,status
